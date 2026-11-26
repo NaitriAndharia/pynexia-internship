@@ -12,9 +12,12 @@ This repository contains my weekly projects and tasks completed during the **Pyt
 - **Week-2**
   - `SnakeAndLadder` — Snake and Ladder game implementation (`snake_and_ladder.py`).
   - `ContactBookApp` — Contact book application (`contact_book.py`, `contacts.json`).
+- **Week-3**
+  - `MovieRecommendationSystem` — Content-based movie recommendation system using TF-IDF and cosine similarity (`movie_recommender.py`).
 
 ## Tech Stack
 - **Language:** Python
+- **Libraries:** pandas, scikit-learn
 - **Platform:** GitHub
 
 ---
